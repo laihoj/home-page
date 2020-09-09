@@ -2,3 +2,10 @@ baseURL = "https://oolavil.ai"
 languageCode = "en-us"
 title = "Jaakko Home"
 theme = "showcase"
+
+
+[social]
+  facebook = "https://facebook.com"
+  twitter = "https://twitter.com"
+  instagram = "https://instagram.com"
+  linkedin = "https://linkedin.com"
