@@ -1,0 +1,4 @@
+baseURL = "https://oolavil.ai"
+languageCode = "en-us"
+title = "Jaakko Home"
+theme = "showcase"
