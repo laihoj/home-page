@@ -3,9 +3,11 @@ languageCode = "en-us"
 title = "Jaakko Home"
 theme = "showcase"
 
+[params]
+  author = "Jaakko Laiho"
+  description = "Minimal static one-pager landing page showcasing my work"
+  message = ""
+  hideAutoMenu = false
 
 [social]
-  facebook = "https://facebook.com"
-  twitter = "https://twitter.com"
-  instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
+  linkedin = "https://www.linkedin.com/in/jaakkolaiho/"
